@@ -1,8 +1,6 @@
 # Solution to Assignment 4:
 
-The purpose of the assignment is to learn Advanced python that will find its use further in the course.
-
-## Problems given in the assignment were :
+## Problem given in the assignment was to :
 
 Write a code for sentiment analysis with following constraints:
 - It has 3 LSTM layers
